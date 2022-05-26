@@ -36,7 +36,7 @@
 .task__input {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .new-task__wrapper {
@@ -139,7 +139,7 @@ input,button {
 }
 
 .task__input {
-  width: 226px
+  width: 226px;
 }
 
 .button__icon {
@@ -154,7 +154,7 @@ input,button {
 
 /* Completed */
 .task-list--done .task__label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
